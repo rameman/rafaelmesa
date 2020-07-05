@@ -5,7 +5,7 @@ baseurl: '/rafaelmesa'
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/compass1.png"
   # author will appear under the avatar (optional)
   author: "Rafael Mesa"
   # tagline will appear under the title (optional)

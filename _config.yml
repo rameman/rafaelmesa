@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Rafael Mesa"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Personal Investigador en la <a href='https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=memanra'>Universidad de Valencia</a> y doctotrando
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true

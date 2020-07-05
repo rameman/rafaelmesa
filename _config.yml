@@ -1,6 +1,6 @@
 # general configuration
-url: https://rameman.github.io
-baseurl: '/rameman'
+url: https://rameman.github.io/rafaelmesa
+baseurl: '/rafaelmesa'
 
 # compass configuration
 compass:
